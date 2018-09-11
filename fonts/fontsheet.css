@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Raleway-Italic';
+    src: url('../fonts/Raleway-Italic.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Montserrat Alternates';
+    src: url('../fonts/MontserratAlternates-Regular.woff2') format('woff2'),
+        url('../fonts/MontserratAlternates-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'alex_brushregular';
+    src: url('../fonts/alexbrush-regular-webfont.woff2') format('woff2'),
+         url('../fonts/alexbrush-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LearningCurve_OT';
+    src: url('../fonts/LearningCurve_OT.otf') format('opentype')
+}
+
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/Lato-Regular.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('../fonts/Raleway-Regular.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Nobile-Regular';
+    src: url('../fonts/Nobile-Regular.ttf') format('truetype')
+}
