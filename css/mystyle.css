@@ -71,7 +71,9 @@ body {
     }
      
     a.button-work {
-        margin-left: 34%;
+        position: relative;
+        top: 40px;
+        margin-left: 29%;
     }
 
     .chart {
